@@ -1,4 +1,5 @@
 table {
+	font-family: arial, sans-serif;
    border-collapse: collapse;
   border-radius: 1em;
   overflow: hidden;
@@ -7,6 +8,7 @@ table {
 
 	th{
 		background-color:blue;
+		color:white;
 	}
 
 td,th{
