@@ -1,1 +1,21 @@
-/* your code */
+table {
+   border-collapse: collapse;
+  border-radius: 1em;
+  overflow: hidden;
+	width:100%;
+}
+
+	th{
+		background-color:blue;
+	}
+
+td,th{
+  
+  text-align: left;
+  padding: 8px;
+	
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
